@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliverdi</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-/*- 🌱 I’m currently learning **Swift** */
+ #🌱 I’m currently learning **Swift** */
 
 - 💬 Ask me about **PHP, Javascript**
 
