@@ -3,7 +3,7 @@
 
  <!--- 🌱 I’m currently learning **Swift**> -->
 
-- 💬 Ask me about **PHP, Javascript**
+- 💬 Ask me about **PHP, Javascript, Node.Js, Express.Js**
 
 - 📫 Reach me **aliverdi095@gmail.com**
 
