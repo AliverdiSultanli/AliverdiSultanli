@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aliverdi</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Aliverdi</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
  <!--- 🌱 I’m currently learning **Swift**> -->
 
